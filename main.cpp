@@ -6,7 +6,6 @@
 #include <vector>
 #include <fstream>
 #include <math.h>
-#include <numeric>
 // Eigen library for linear algebra
 #include <Eigen/Dense>
 
